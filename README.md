@@ -32,9 +32,5 @@ In conclusion, this EDA process provided valuable insights into the distribution
 
 Thank you for reviewing my submission!
 
-## 📬 Contact
 
-For any inquiries or feedback regarding this project, please contact:
 
-- <a>[Ayush Raj ](www.linkedin.com/in/ayush-raj-2b54b8332)(LinkedIn)</a>
-- Email: rajayush2099@gmail.com
